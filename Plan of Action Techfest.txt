@@ -1,0 +1,9 @@
+                                         PLAN OF ACTION--- 11 Dec to 17 Dec
+ 1)Main Run
+ 2)Gripper Code
+ 3)IR Sensor
+ 4)Integrating LSA08 code with Rhino motors
+ 5)Integrate Image Processing with main run
+ 6)Positioning of the bot for image capture
+ 7)Magnetic Dart Thrower code(setting the angle of Servo)
+ 8)Wireless Communication   
